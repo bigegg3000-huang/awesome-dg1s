@@ -1,4 +1,7 @@
-# awesome-dg1s 
+# awesome-dg1s [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+
+<img src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg">
+
 An extensive list of DG1S-related projects, tutorials, and documentation. Everything you need to master the DG1S ecosystem.
 
 😎😎😎😎😎😎

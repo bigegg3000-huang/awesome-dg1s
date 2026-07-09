@@ -1,2 +1,3 @@
 # awesome-dg1s
-A curated list of awesome DG1S resources, tools, libraries, and projects.
+An extensive list of DG1S-related projects, tutorials, and documentation. Everything you need to master the DG1S ecosystem.
+😊😊😊😊😊😊😊😊😊😊

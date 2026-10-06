@@ -24,7 +24,7 @@ An extensive list of DG1S-related projects, tutorials, and documentation. Everyt
 
 ## 📚 Repositories
 * [Equipmentfinder](https://github.com/dg1s-equipmentFinder/equipmentFinder) - made by KLOPP, 대구일과학고등학교 과학부
-* [HBB site](https://github.com/bigegg3000-huang/HBBsite) - 홍보부 사진 업로드 사이트 테스트
+* [HBB site](https://github.com/bigegg3000-huang/HBBsite) - 홍보부 사진 업로드 사이트 테스트 (private)
 * [DG1S LMS](https://github.com/Sup-xort/DG1S_LMS) - 학교의 자습관리를 총괄하는 프로그램입니다.
 * [일곽봇](https://github.com/SungyeopJeong/dg1s_bot) - 대구일과학고등학교 일곽봇 카카오톡 채널 이름: 일곽봇
 * [짭일곽봇](https://github.com/Dev-Pause/DG1SBOT) - 일곽봇 리빌드. (카카오톡 채널 짭일곽봇) 단순 api 확인용, 점검용.
@@ -36,3 +36,4 @@ An extensive list of DG1S-related projects, tutorials, and documentation. Everyt
 * [글로벌 AI ML](https://github.com/SuwonJ/Python_ML_Workshop) - This is a repository for the 5-day program for machine learning with python at Daegu Il Science High School in January 2025.
 * [ROS예측](https://github.com/junslee09/ROS-prediction-and-Kota-function) - 2026 Daegu Il Science High School Global AI Research Program - Group of Brandon Lee
 * [강의자료](https://github.com/kyunleader/Daegu-il-science-high-school) - 대구일과고 강의자료
+
